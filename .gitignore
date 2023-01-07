@@ -1,0 +1,3 @@
+etcd_cluster/node01/data/*
+etcd_cluster/node02/data/*
+etcd_cluster/node03/data/*
